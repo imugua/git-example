@@ -25,6 +25,7 @@ A bullet list is created using `*`, `+`, or `-`, like:
 - dog
 - cat
 - muffin
+- orange
 
 A numbered list is created using a number + `.`.
 The actual numbering doesn't matter:
@@ -33,7 +34,9 @@ The actual numbering doesn't matter:
 2. two
 6. three
 2. four
+5. seven
 
+**testing bold letters** *and italics*
 > Block quote.
 
 ----
